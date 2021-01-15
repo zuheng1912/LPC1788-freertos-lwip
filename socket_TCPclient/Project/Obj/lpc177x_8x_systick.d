@@ -1,0 +1,10 @@
+.\obj\lpc177x_8x_systick.o: ..\..\Drivers\source\lpc177x_8x_systick.c
+.\obj\lpc177x_8x_systick.o: ..\..\Drivers\include\lpc177x_8x_systick.h
+.\obj\lpc177x_8x_systick.o: ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h
+.\obj\lpc177x_8x_systick.o: ..\..\Core\CM3\CoreSupport\core_cm3.h
+.\obj\lpc177x_8x_systick.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lpc177x_8x_systick.o: ..\..\Core\CM3\CoreSupport\core_cmInstr.h
+.\obj\lpc177x_8x_systick.o: ..\..\Core\CM3\CoreSupport\core_cmFunc.h
+.\obj\lpc177x_8x_systick.o: ..\..\Drivers\include\lpc_types.h
+.\obj\lpc177x_8x_systick.o: ..\..\Drivers\include\lpc177x_8x_clkpwr.h
+.\obj\lpc177x_8x_systick.o: ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.h

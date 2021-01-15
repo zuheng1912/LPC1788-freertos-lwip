@@ -1,0 +1,6 @@
+..\User\arch\ethernetif.c -E --c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\BoardSupport -I ..\..\Core\CM3\CoreSupport -I ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I ..\..\Drivers\include -I ..\User -I .\FreeRTOS\include -I .\FreeRTOS -I .\FreeRTOS\portable\RVDS\ARM_CM3 -I ..\..\Drivers\include -I ..\Lwip\include -I ..\User\arch -I ..\Lwip\include\lwip -I ..\User\arch --diag_suppress=186
+-I.\RTE\_GPIO_Buzzer
+-IE:\Keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include
+-IE:\Keil\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include
+-D__UVISION_VERSION="525" -D_RTE_ -DLPC177x_8x
+-o .\list\ethernetif.i

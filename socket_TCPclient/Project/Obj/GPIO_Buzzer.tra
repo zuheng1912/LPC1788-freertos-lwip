@@ -1,0 +1,26 @@
+*** Creating Trace Output File '.\Obj\GPIO_Buzzer.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\lpc177x_8x_systick.o"'
+### List of Objects: adding '".\obj\lpc177x_8x_gpio.o"'
+### List of Objects: adding '".\obj\lpc177x_8x_clkpwr.o"'
+### List of Objects: adding '".\obj\gpio_buzzer.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_lpc177x_8x.o" ".\obj\core_cm3.o" ".\obj\system_lpc177x_8x.o" ".\obj\lpc177x_8x_systick.o" ".\obj\lpc177x_8x_gpio.o" ".\obj\lpc177x_8x_clkpwr.o" ".\obj\gpio_buzzer.o" 
+--strict --scatter ".\Obj\GPIO_Buzzer.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\List\GPIO_Buzzer.map" -o .\Obj\GPIO_Buzzer.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\GPIO_Buzzer.axf'
+### ADS-LD Command File: '.\Obj\GPIO_Buzzer.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\GPIO_Buzzer.lnp', Handle=0x000002A4
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\GPIO_Buzzer.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,12 @@
+.\obj\phylan.o: ..\User\arch\phylan.c
+.\obj\phylan.o: ..\..\Drivers\include\lpc177x_8x_libcfg_default.h
+.\obj\phylan.o: ..\..\Drivers\include\lpc_types.h
+.\obj\phylan.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\phylan.o: ..\User\arch\phylan.h
+.\obj\phylan.o: ..\..\BoardSupport\bsp.h
+.\obj\phylan.o: ..\..\BoardSupport\phylan_lan8720.h
+.\obj\phylan.o: ..\..\Drivers\include\lpc177x_8x_emac.h
+.\obj\phylan.o: ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h
+.\obj\phylan.o: ..\..\Core\CM3\CoreSupport\core_cm3.h
+.\obj\phylan.o: ..\..\Core\CM3\CoreSupport\core_cmInstr.h
+.\obj\phylan.o: ..\..\Core\CM3\CoreSupport\core_cmFunc.h

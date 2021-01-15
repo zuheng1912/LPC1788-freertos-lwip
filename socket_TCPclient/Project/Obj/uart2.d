@@ -1,0 +1,11 @@
+.\obj\uart2.o: ..\User\UART2.c
+.\obj\uart2.o: ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h
+.\obj\uart2.o: ..\..\Core\CM3\CoreSupport\core_cm3.h
+.\obj\uart2.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uart2.o: ..\..\Core\CM3\CoreSupport\core_cmInstr.h
+.\obj\uart2.o: ..\..\Core\CM3\CoreSupport\core_cmFunc.h
+.\obj\uart2.o: ..\..\Drivers\include\lpc177x_8x_uart.h
+.\obj\uart2.o: ..\..\Drivers\include\lpc_types.h
+.\obj\uart2.o: ..\..\Drivers\include\lpc177x_8x_pinsel.h
+.\obj\uart2.o: ..\..\Drivers\include\lpc177x_8x_gpio.h
+.\obj\uart2.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdio.h

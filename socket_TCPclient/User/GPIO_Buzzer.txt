@@ -1,0 +1,22 @@
+/*****************************************************
+//LPC1788例程代码
+//论坛；www.openmcu.com/bbs
+//旺宝；www.openmcu.com
+//邮箱；support@openmcu.com
+
+
+//实验名；GPIO的输出
+//KEIL MDK-ARM Standard Version: 4.60
+//使用外设；GPIO
+*****************************************************/
+用到的固件库文件是；
+	lpc177x_8x_gpio.c //这里有GPIO的全部功能
+	lpc177x_8x_clkpwr.c//时钟和功率控制
+	
+
+用到的GPIO口有；
+		输出GPIO 1.26对应Buzzer
+		输出GPIO 2.26对应LED2 D11
+		输出GPIO 2.23对应LED3 D12
+		输出GPIO 2.22对应LED4 D13
+实验现象，三个LED发光二极管会1秒闪烁一次，蜂鸣器也会发声。

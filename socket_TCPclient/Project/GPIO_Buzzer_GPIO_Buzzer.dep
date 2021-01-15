@@ -1,0 +1,51 @@
+Dependencies for Project 'GPIO_Buzzer', Target 'GPIO_Buzzer': (DO NOT MODIFY !)
+F (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\startup\arm\startup_LPC177x_8x.s)(0x4DC81966)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x --list ".\List\startup_LPC177x_8x.lst" --xref -o ".\Obj\startup_LPC177x_8x.o" --depend ".\Obj\startup_LPC177x_8x.d")
+F (..\..\Core\CM3\CoreSupport\core_cm3.c)(0x4DE7C0EE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\core_cm3.o" --omf_browse ".\Obj\core_cm3.crf" --depend ".\Obj\core_cm3.d")
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+F (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.c)(0x4DE7C0EE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\system_lpc177x_8x.o" --omf_browse ".\Obj\system_lpc177x_8x.crf" --depend ".\Obj\system_lpc177x_8x.d")
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cm3.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmInstr.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmFunc.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.h)(0x4DE7C0EE)
+F (..\..\Drivers\source\lpc177x_8x_systick.c)(0x4DE7C0EE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\lpc177x_8x_systick.o" --omf_browse ".\Obj\lpc177x_8x_systick.crf" --depend ".\Obj\lpc177x_8x_systick.d")
+I (..\..\Drivers\include\lpc177x_8x_systick.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cm3.h)(0x4DE7C0EE)
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\..\Core\CM3\CoreSupport\core_cmInstr.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmFunc.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc_types.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc177x_8x_clkpwr.h)(0x5482A8F2)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.h)(0x4DE7C0EE)
+F (..\..\Drivers\source\lpc177x_8x_gpio.c)(0x5494F55E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\lpc177x_8x_gpio.o" --omf_browse ".\Obj\lpc177x_8x_gpio.crf" --depend ".\Obj\lpc177x_8x_gpio.d")
+I (..\..\Drivers\include\lpc177x_8x_gpio.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cm3.h)(0x4DE7C0EE)
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\..\Core\CM3\CoreSupport\core_cmInstr.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmFunc.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc_types.h)(0x4DE7C0EE)
+F (..\..\Drivers\source\lpc177x_8x_clkpwr.c)(0x4DE7C0EE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\lpc177x_8x_clkpwr.o" --omf_browse ".\Obj\lpc177x_8x_clkpwr.crf" --depend ".\Obj\lpc177x_8x_clkpwr.d")
+I (..\..\Drivers\include\lpc177x_8x_clkpwr.h)(0x5482A8F2)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cm3.h)(0x4DE7C0EE)
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\..\Core\CM3\CoreSupport\core_cmInstr.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmFunc.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc_types.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.h)(0x4DE7C0EE)
+F (..\User\GPIO_Buzzer.c)(0x5494E924)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\..\BoardSupport -I..\..\Core\CM3\CoreSupport -I..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x -I..\..\Drivers\include -I..\User -I D:\Keil_v4.6\ARM\RV31\INC -I D:\Keil_v4.6\ARM\CMSIS\Include -I D:\Keil_v4.6\ARM\Inc\NXP\LPC177x_8x -o ".\Obj\gpio_buzzer.o" --omf_browse ".\Obj\gpio_buzzer.crf" --depend ".\Obj\gpio_buzzer.d")
+I (..\..\Drivers\include\lpc177x_8x_gpio.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cm3.h)(0x4DE7C0EE)
+I (D:\Keil_v4.6\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\..\Core\CM3\CoreSupport\core_cmInstr.h)(0x4DE7C0EE)
+I (..\..\Core\CM3\CoreSupport\core_cmFunc.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc_types.h)(0x4DE7C0EE)
+I (..\..\Drivers\include\lpc177x_8x_clkpwr.h)(0x5482A8F2)
+I (..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\system_LPC177x_8x.h)(0x4DE7C0EE)
+I (..\..\BoardSupport\bsp.h)(0x549289F8)
+I (..\..\BoardSupport\phylan_lan8720.h)(0x4DE7C0EE)
+F (..\User\GPIO_Buzzer.txt)(0x54252E68)()

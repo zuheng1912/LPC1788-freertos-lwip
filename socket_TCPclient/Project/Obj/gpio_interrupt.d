@@ -1,0 +1,11 @@
+.\obj\gpio_interrupt.o: ..\User\Gpio_Interrupt.c
+.\obj\gpio_interrupt.o: ..\..\Core\CM3\DeviceSupport\NXP\LPC177x_8x\LPC177x_8x.h
+.\obj\gpio_interrupt.o: ..\..\Core\CM3\CoreSupport\core_cm3.h
+.\obj\gpio_interrupt.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\gpio_interrupt.o: ..\..\Core\CM3\CoreSupport\core_cmInstr.h
+.\obj\gpio_interrupt.o: ..\..\Core\CM3\CoreSupport\core_cmFunc.h
+.\obj\gpio_interrupt.o: ..\..\Drivers\include\lpc177x_8x_gpio.h
+.\obj\gpio_interrupt.o: ..\..\Drivers\include\lpc_types.h
+.\obj\gpio_interrupt.o: ..\..\Drivers\include\lpc177x_8x_pinsel.h
+.\obj\gpio_interrupt.o: ..\..\BoardSupport\bsp.h
+.\obj\gpio_interrupt.o: ..\..\BoardSupport\phylan_lan8720.h
